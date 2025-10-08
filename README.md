@@ -16,8 +16,8 @@
   5. Selanjutnya kita konfigurasi static ini juga untuk clientnya agar satu segmen dengan server.  
 ![](IMAGES/ipwin.png)  
   6. Jika sudah, cek service nginx dan pastikan sudah berjalan. Lalu di web browser client arahkan ke IP server, jika berhasil browser akan menampilkan default page nginx.  
-![](IMAGES/)  
-![](IMAGES/)  
+![](IMAGES/mulaynging.png)  
+![](IMAGES/nginxdefpage.png)  
   7. Selanjutnya, buat direktori baru untuk index.html kita di **/var/www**.
 
          mkdir /var/www/penguin
